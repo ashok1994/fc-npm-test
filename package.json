@@ -1,0 +1,20 @@
+{
+  "name": "fc-npm-test",
+  "version": "1.0.0",
+  "description": "Repo for testing fusioncharts npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashok1994/fc-npm-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashok1994/fc-npm-test/issues"
+  },
+  "homepage": "https://github.com/ashok1994/fc-npm-test#readme"
+}
