@@ -27,6 +27,7 @@
     "svgdecanvo": "^1.0.1"
   },
   "devDependencies": {
+    "browserify": "^16.2.2",
     "http-server": "^0.11.1",
     "rollup-plugin-commonjs": "^9.1.3",
     "rollup-plugin-json": "^3.0.0",
