@@ -1,4 +1,4 @@
-import FusionCharts from "fusioncharts";
+import FusionCharts from "fusioncharts/core";
 import Maps from "fusioncharts/maps/index.js";
 import usa from "fusioncharts/maps/es/fusioncharts.usa";
 

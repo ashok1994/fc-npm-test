@@ -1,4 +1,4 @@
-import FusionCharts from "fusioncharts";
+import FusionCharts from "fusioncharts/core";
 import Pie2d from 'fusioncharts/viz/pie2d';
 import IgnoreCaseExt from 'fusioncharts/features/ignore-case-ext';
 FusionCharts.addDep(Pie2d);

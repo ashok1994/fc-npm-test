@@ -6,7 +6,7 @@ export default {
   input: './src/script.es6.js',
   output: {
     file : './dist/rollup.bundle.js',
-    format : 'es',
+    format : 'iife',
     name:'moduleName'
   },
   plugins:[

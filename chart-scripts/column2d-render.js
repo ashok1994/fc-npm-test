@@ -1,4 +1,4 @@
-import FusionCharts from 'fusioncharts';
+import FusionCharts from 'fusioncharts/core';
 import Column2d from 'fusioncharts/viz/column2d';
 import IgnoreCaseExt from 'fusioncharts/features/ignore-case-ext';
 

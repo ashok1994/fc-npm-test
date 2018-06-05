@@ -1,4 +1,4 @@
-import FusionCharts from 'fusioncharts';
+import FusionCharts from 'fusioncharts/core';
 import RealTimeArea from 'fusioncharts/viz/realtimearea';
 
 FusionCharts.addDep(RealTimeArea);
